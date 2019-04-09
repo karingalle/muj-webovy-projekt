@@ -7,8 +7,6 @@ tags:
 
 Map
 
-<!--more-->
-
 See map
 
 
