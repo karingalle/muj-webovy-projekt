@@ -1,19 +1,24 @@
 ---
-title: All albums of The Beatles
-date: 2018-03-15
+title: Mapa
 tags: 
-    - beatles
-    - data
+    - dogs
+    - map
 ---
 
-This is just another post. And it illustrates a mighty functionality.
+Map
 
 <!--more-->
 
-See how to include data inside your posts:
+See map
 
-## Beatles Discography
+## Map
 
-{{< beatles >}}
+{{< map >}}
 
-You can find the data in `data/The_Beatles/discography.yml` and the template used to display it in `layouts/shortcodes/beatles.html`.
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1OUbEU7MgPm16Q__9xENBu7HRbBUWS8b0" 
+
+width="640" height="480"></iframe>
+
+
