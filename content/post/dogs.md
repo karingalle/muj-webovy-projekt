@@ -1,25 +1,17 @@
 ---
-title: Pejskařův průvodce Brnem 
+title: Mapa
 tags: 
     - dogs
-    - data
+    - map
 ---
 
-Tato mapa vám pomůže se 
+Map
 
-zorientovat v brněnské džungli.
+See map
 
-<!--more-->
-
-Hele, mapa:
-
-## Mapa 
-
-Mapa
-
-{{< psi>}}
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1OUbEU7MgPm16Q__9xENBu7HRbBUWS8b0" 
 
 width="640" height="480"></iframe>
+
 
