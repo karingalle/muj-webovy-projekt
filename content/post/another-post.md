@@ -5,9 +5,9 @@ tags:
     - map
 ---
 
-Map
+Mapa psům přístupných podniků, psích výběhů a neoplocených prostranství. 
 
-See map
+Pro nastavení filtrů otevřete mapu v plném zobrazení. 
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1OUbEU7MgPm16Q__9xENBu7HRbBUWS8b0" 
